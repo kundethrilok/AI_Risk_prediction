@@ -1,0 +1,23 @@
+{
+    "accuracy": 91.0,
+    "precision": 66.67,
+    "recall": 61.54,
+    "f1_score": 64.0,
+    "roc_auc": 0.916,
+    "confusion_matrix": [
+        [
+            83,
+            4
+        ],
+        [
+            5,
+            8
+        ]
+    ],
+    "feature_importances": {
+        "Attendance": 27.08,
+        "Internal_Marks": 36.61,
+        "Assignment_Scores": 23.22,
+        "Previous_Sem_Marks": 13.09
+    }
+}
